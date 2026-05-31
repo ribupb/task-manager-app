@@ -67,7 +67,7 @@ python app.py
 - Bootstrap used for responsive UI.
 - Session-based authentication implemented.
 
-##Live Application
+## Live Application
 
 The application has been deployed and can be accessed at:
 
