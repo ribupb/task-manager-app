@@ -66,3 +66,9 @@ python app.py
 - SQLite used as lightweight database.
 - Bootstrap used for responsive UI.
 - Session-based authentication implemented.
+
+##Live Application
+
+The application has been deployed and can be accessed at:
+
+https://task-manager-app-022o.onrender.com
