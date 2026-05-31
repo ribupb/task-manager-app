@@ -53,7 +53,7 @@ python app.py
 ## Assumptions
 
 - Each user can manage only their own tasks.
-- SQLite is used for simplicity and local storage.
+- SQLite is used because it is simple to set up and provides convenient local data storage.
 
 ## Tradeoffs
 
