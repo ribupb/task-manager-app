@@ -1,6 +1,6 @@
 # Task Manager Application
 
-A simple Task Manager web application built using Flask, SQLite and Bootstrap.
+A simple Task Manager web application built using Flask, SQLite and Bootstrap. This application allows users to register, log in, and manage tasks through Todo, In Progress, and Done stages.
 
 ## Features
 
