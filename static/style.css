@@ -1,0 +1,37 @@
+body{
+    background:#f4f8ff;
+    font-family:'Segoe UI',sans-serif;
+}
+
+h1{
+    color:#2c3e50;
+}
+
+.card{
+    border-radius:15px;
+}
+
+.board-column{
+    min-height:120px;
+}
+
+.task-card{
+    transition:0.2s;
+}
+
+.task-card:hover{
+    transform:translateY(-3px);
+}
+
+.card-header{
+    font-size:20px;
+    font-weight:600;
+}
+
+textarea{
+    resize:none;
+}
+
+.btn{
+    border-radius:8px;
+}
